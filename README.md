@@ -1,3 +1,6 @@
+# Run on Windows
+Small change to make it run on Windows using NPX
+
 # OpenAI Realtime API with Twilio Quickstart
 
 Combine OpenAI's Realtime API and Twilio's phone calling capability to build an AI calling assistant.
